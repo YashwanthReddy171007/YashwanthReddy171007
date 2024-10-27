@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YashwanthReddy171007
+- 👋 Hi, I’m Yashwanth Reddy
 - 👀 I’m interested in AI
 - 🌱 I’m currently a Student pursuing Undergraduation
 - 💞️ I’m looking to collaborate on AI projects
